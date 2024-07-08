@@ -1,5 +1,5 @@
 
-package pbo_2301082012.p260324;
+package pbo2301082012.p260324;
 
 
 public class Student extends StudentRecord{
